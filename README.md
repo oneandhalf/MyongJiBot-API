@@ -15,4 +15,4 @@ MyongJiBot API Server
 
 ---
 
-#### MyongJiBot 은 <a target="_blank" href="https://www.kakao.com/policy/oppolicy">카카오 운영정책</a>을 준수합니다.
+#### MyongJiBot complies with the <a target="_blank" href="https://www.kakao.com/policy/oppolicy">Kakao Operations Policy</a>.
