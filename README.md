@@ -10,3 +10,9 @@ MyongJiBot API Server
 #### MyongJi University KakaoTalk ChatBot API Server
 
 #### [Demo][]()
+
+### 2. Operational Policy
+
+---
+
+#### MyongJiBot 은 <a target="_blank" href="https://www.kakao.com/policy/oppolicy">카카오 운영정책</a>을 준수합니다.
